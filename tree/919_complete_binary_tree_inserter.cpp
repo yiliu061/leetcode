@@ -6,7 +6,7 @@
  *     TreeNode *right;
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
- */
+ **/
 
 
 // queue and BFS: find the first node which does not have both children, insert
